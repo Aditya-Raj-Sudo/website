@@ -30,7 +30,7 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 -   Use any language.
 -   Don't spam it will be rejected immediately
 -   Python, C, C++, Java, Docker, JavaScript, Node, Data Structure and Algorithms, HTML, CSS, Android Projects.
--   Anything valuable for Community
+-   Anything valuable for Community.
 
 ## Steps For Contribution
 
